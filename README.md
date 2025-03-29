@@ -6,7 +6,11 @@ Dataset :  https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-data
 CNN Tumor Classification :  braintumor_classification CNN.ipynb
 Image Segementation using PSO & WOA : imagesegementation using PSO & WOA.ipynb
 
+![image](assets/blockdiagram.png)
+
 Result Image
-![image](https://github.com/user-attachments/assets/83e7555e-90d9-40e0-9687-78b5e8c923ec)
-![image](https://github.com/user-attachments/assets/ec3bb2f2-e48e-459b-9c6c-209ab2abfad3)
+![image](assets/classification.png)
+![image](assets/pso+woa.png)
+
+For more details, please refer to Report.pdf
 
